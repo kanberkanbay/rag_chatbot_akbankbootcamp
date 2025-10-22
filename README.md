@@ -3,30 +3,17 @@
 ## Kurulum
 
 1. Sanal ortam oluştur:
-```bash
 python -m venv venv
-source venv/bin/activate  # windows: venv\Scripts\activate
+venv/bin/activate
 pip install -r requirements.txt
-```
 
-2. `.env.example` dosyasını `.env` olarak kopyalayıp OpenAI API keyinizi ekleyin:
-```
-OPENAI_API_KEY="buraya_senin_api_key"
-```
-
-3. Metni ingest et:
-```bash
+2. Metni ingest et:
 python app/ingest.py
-```
 
-4. FastAPI backend’i çalıştır:
-```bash
+3. FastAPI backend’i çalıştır:
 uvicorn app.chatbot_api:app --reload
-```
 
-5. Streamlit chat arayüzünü çalıştır:
-```bash
+4. Streamlit chat arayüzünü çalıştır:
 streamlit run ui/chat_ui.py
-```
 
-Tarayıcıda aç: `http://localhost:8501`
+Otomatik tarayıcı açılır.

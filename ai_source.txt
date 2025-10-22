@@ -1,0 +1,15 @@
+Yapay zeka (YZ), bilgisayar sistemlerinin insan benzeri zekâ ve problem çözme yetenekleri sergilemesini sağlayan bir bilim dalıdır. 
+Tarihçesi 1950’lere dayanır; Alan Turing’in “Turing Testi” ile makinelerin düşünebilirliği üzerine ilk fikirler ortaya konmuştur. 
+1960’larda sembolik yapay zeka çalışmaları, 1980’lerde uzman sistemler, 1990’larda makine öğrenimi ve 2010’larda derin öğrenme ile modern yapay zekaya geçiş sağlanmıştır.
+
+Yapay zekanın türleri genel olarak şunlardır: 
+1. Dar Yapay Zeka (ANI): Belirli görevleri yapabilen, insan zekasının bir bölümünü taklit eden sistemler.
+2. Genel Yapay Zeka (AGI): İnsan gibi düşünebilen, çok yönlü yeteneklere sahip sistemler (henüz gelişme aşamasında).
+3. Süper Yapay Zeka (ASI): İnsan zekasını aşabilecek seviyede, teorik olarak varsayılan bir zekâ türü.
+
+Günümüzde yapay zekanın kullanım alanları oldukça geniştir:
+- Sağlık: Hastalık teşhisi, tıbbi görüntüleme analizi.
+- Eğitim: Kişiselleştirilmiş öğrenme ve içerik önerileri.
+- Yazılım: Kod tamamlama ve hata tespiti.
+- Finans: Risk analizi ve algoritmik ticaret.
+- Ulaşım: Otonom araçlar ve rota optimizasyonu.
